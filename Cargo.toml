@@ -1,6 +1,10 @@
 [package]
 name = "chunk-json-lite"
 version = "0.1.0"
+description = "A little tool to split a json into multiple valid json array of a given max size"
+license = "MIT"
+repository = "https://github.com/Kerollmops/chunk-json-lite"
+readme = "README.md"
 authors = ["Clément Renault <clement@meilisearch.com>"]
 edition = "2018"
 
